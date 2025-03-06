@@ -12,7 +12,7 @@ Sentiment analysis is a crucial application in Natural Language Processing (NLP)
 - Optimized deep learning architecture by training an LSTM-based Recurrent Neural Network (RNN) with word embeddings, achieving 87.2% accuracy.
 
 ## Dataset
-The dataset used in this project consists of 50,000 IMDB movie reviews labeled as positive or negative. The data is preprocessed before feeding it into the machine learning models.
+The dataset used in this project consists of 50,000 IMDB movie reviews labeled as positive or negative. The data is sourced from Kaggle and can be accessed here: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). The data is preprocessed before feeding it into the machine learning models.
 
 ## Installation
 To run this project, ensure you have the following dependencies installed:
