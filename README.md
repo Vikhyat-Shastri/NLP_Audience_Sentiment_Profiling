@@ -1,4 +1,4 @@
-# Sentiment Analysis of IMDB Movie Reviews
+# NLP_Audience_Sentiment_Profiling
 
 ## Overview
 This project focuses on performing sentiment analysis on IMDB movie reviews using various machine learning models. The primary goal is to classify movie reviews as positive or negative based on their textual content. Multiple models, including Logistic Regression, Naïve Bayes, Support Vector Machines (SVM), and Deep Learning, were evaluated. Logistic Regression achieved the highest accuracy at 89.4% and was selected as the best-performing model.
