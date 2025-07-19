@@ -1,9 +1,5 @@
 # NLP Audience Sentiment Profiling
 
-A scalable, production-ready project for sentiment analysis on IMDB reviews using both classical machine learning and deep learning (LSTM). This repository is modular, recruiter-friendly, and easy to extend for other datasets or use cases.
-
----
-
 ## 🚀 Project Overview
 
 This project demonstrates end-to-end sentiment analysis:
